@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "company": "Innovative Tech Solutions Inc.",
+      "title": "Software Developer Intern",
+      "duration": "April 2023 - Present",
+      "tasks": [
+        "Assisted in the development of web applications for data processing and visualization, contributing to feature integration and user experience improvements.",
+        "Supported the enforcement of coding standards and best practices in collaborative projects.",
+        "Participated in training sessions and mentorship programs under the guidance of senior developers.",
+        "Collaborated with back-end engineers, front-end developers, and QA testers to assist in project execution.",
+        "Contributed to optimizing application performance and ensuring data integrity.",
+        "Developed and tested dynamic and responsive websites using technologies such as HTML5, JavaScript, ReactJS, and CSS."
+      ]
+    },
+    {
+      "company": "Tech Innovations Ltd.",
+      "title": "Junior Software Developer",
+      "duration": "June 2021 - March 2023",
+      "tasks": [
+        "Assisted in the development of full-stack applications using various technologies and frameworks.",
+        "Supported debugging and performance tuning efforts to improve application speed and functionality.",
+        "Helped address and resolve client-reported issues related to web development.",
+        "Contributed to deployment processes and maintained relational and NoSQL databases.",
+        "Assisted in the development and maintenance of web-based software solutions."
+      ]
+    },
+    {
+      "company": "Tech Support Services",
+      "title": "Technical Support Intern",
+      "duration": "May 2022 - April 2023",
+      "tasks": [
+        "Assisted with the installation of technical equipment on-site.",
+        "Helped diagnose and repair malfunctioning or damaged equipment.",
+        "Provided customer support and guidance on the operation and maintenance of technical equipment."
+      ]
+    }
+  ]
+}
